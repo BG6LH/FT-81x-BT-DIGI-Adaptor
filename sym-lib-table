@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "kicad_lceda")(type "Legacy")(uri "/Users/jamflying/Documents/KiCad/My-Kicad-Library/lceda-JDY-67/kicad_lceda.lib")(options "")(descr ""))
+)
