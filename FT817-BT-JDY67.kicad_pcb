@@ -1060,6 +1060,11 @@
       (net 34 "unconnected-(U1-SD-DATA-Pad21)") (pinfunction "SD-DATA") (pintype "input") (tstamp 8a5108bf-cd2a-477a-940b-91524d2d897b))
     (pad "22" smd roundrect (at 12.9 7.117 90) (size 1.5 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 6 "Net-(U1-ADCKIN)") (pinfunction "ADCKIN") (pintype "input") (tstamp 6b91be5b-ef83-4372-8c88-daa975f5a2b2))
+    (model "/Users/jamflying/Documents/KiCad/My-Kicad-Library/lceda-JDY-67/kicad_lceda.3dshapes/COMM-SMD_JDY-67.wrl"
+      (offset (xyz 6.5 -13.34 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
@@ -2159,7 +2164,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp eba96443-c9b1-4257-b333-09225de9d33c))
   (gr_arc (start 154.305 64.77) (mid 154.862962 63.422962) (end 156.21 62.865)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp fc1a9f0d-99d8-4565-a98d-bf8832915c8c))
-  (image (at 143.51 79.375) (layer "User.2") (scale 0.229514)
+  (image (at 143.51 80.01) (layer "User.2") (scale 0.229514)
     (data
       iVBORw0KGgoAAAANSUhEUgAADOQAAAOgCAIAAACoDt/6AAAAA3NCSVQICAjb4U/gAAAACXBIWXMA
       ABXgAAAV4AGNVCw4AAAgAElEQVR4nOzdZ1xTyfs28BMCCARQ6U1FECmChSaCgAVcUcS6uooNK7o2
@@ -9520,7 +9525,7 @@
       8MTExObm5p5/q+kT/h+SL2ndKcBnWwAAAABJRU5ErkJggg==
     )
   )
-  (image (at 143.51 80.01) (layer "User.2") (scale 0.229514)
+  (image (at 143.51 79.375) (layer "User.2") (scale 0.229514)
     (data
       iVBORw0KGgoAAAANSUhEUgAADOQAAAOgCAIAAACoDt/6AAAAA3NCSVQICAjb4U/gAAAACXBIWXMA
       ABXgAAAV4AGNVCw4AAAgAElEQVR4nOzdZ1xTyfs28BMCCARQ6U1FECmChSaCgAVcUcS6uooNK7o2
@@ -29290,9 +29295,9 @@
     (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
   )
   (dimension (type aligned) (layer "Cmts.User") (tstamp a861c141-ae6e-4609-b6ef-df39b06937f5)
-    (pts (xy 75.565 59.69) (xy 210.185 59.69))
+    (pts (xy 76.2 59.69) (xy 210.82 59.69))
     (height -12.065)
-    (gr_text "134.6200 mm" (at 142.875 46.475) (layer "Cmts.User") (tstamp a861c141-ae6e-4609-b6ef-df39b06937f5)
+    (gr_text "134.6200 mm" (at 143.51 46.475) (layer "Cmts.User") (tstamp a861c141-ae6e-4609-b6ef-df39b06937f5)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (prefix "") (suffix "") (units 3) (units_format 1) (precision 4))
@@ -29317,9 +29322,9 @@
     (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
   )
   (dimension (type aligned) (layer "Cmts.User") (tstamp e3d593b1-2525-4af9-820f-71d6ba6bc177)
-    (pts (xy 97.155 60.325) (xy 75.565 60.325))
+    (pts (xy 97.155 60.325) (xy 76.2 60.325))
     (height 6.35)
-    (gr_text "21.5900 mm" (at 86.36 52.825) (layer "Cmts.User") (tstamp e3d593b1-2525-4af9-820f-71d6ba6bc177)
+    (gr_text "20.9550 mm" (at 86.6775 52.825) (layer "Cmts.User") (tstamp e3d593b1-2525-4af9-820f-71d6ba6bc177)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (prefix "") (suffix "") (units 3) (units_format 1) (precision 4))
