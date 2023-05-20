@@ -1,3 +1,10 @@
+
+## **NOTE: This Design is still a Work in Progress. Schematic, PCB, and other stuff might change!**
+
+
+
+
+
 # A PCB Design of Bluetooth DIGI Adaptor for Yaesu FT-817/818 Series transceivers
 
 
@@ -16,17 +23,13 @@ I'd measured the DATA and ACC jacks on FT-818's rear panel, And refering to the 
 Although FT-817/818 has been discontinued, I still love this twenty years selling product. Now, I would like to share this PCB desgin to all HAM communities, If you wanna make your design, you can make any modify from it.
 
 
-
-
 ## This PCB was design by KiCad 7.0
 In the Layer User.Drawings and User.Comments, there are some information of measurement.
 In the Layer User.1~4, there are approximate FT-817/818's panel sketch for comparison.
 
-
 ![have a look](./pics/FT-81x-BT-DIGI-Adaptor-SCH.png)
 ![have a look](./pics/FT-81x-BT-DIGI-Adaptor-PCB.png)
 ![have a look](./pics/FT-81x-BT-DIGI-Adaptor-3D.png)
-
 
 
 ## With special thanks to: BG6JJI, BI1EIH
