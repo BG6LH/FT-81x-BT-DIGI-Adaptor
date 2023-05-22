@@ -7,6 +7,7 @@
 1. Add 6.2V zener for pre-conditioning before LM1117-3.3
 2. Add attenuation network for Line->Mic
 3. Add EMI inductor on TXD/RXD pins.
+4. Removed TXD's LED.
 
 ---
 # A PCB Design of Bluetooth DIGI Adaptor for Yaesu FT-817/818 Series transceivers
