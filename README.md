@@ -6,6 +6,7 @@
 
 ## Table of Contents
 - [Update](#update)
+- [Important](#important)
 - [Background](#background)
 - [Design](#design)
 - [Related Efforts](#related-efforts)
@@ -20,6 +21,10 @@ Updated in 20230522
 3. Add EMI inductor on TXD/RXD pins.
 4. Removed TXD's LED.
 
+## Important
+1. The FT-817/818's ACC jack always has a constant voltage of 13.8V, even you switched off the rig. We should ***BE VERY CAREFUL*** to avoid short-circuit the PCB and ACC jack accidentally.
+2. Meanwhile, aftering installing this adaptor, it will ***ALWAYS*** consume FT-817/818's battery energy. So, A battery with a power switch is recommended. For example, The WindCamp's FT-817/818 lithium battery.
+3. If you would purchase a JDY-67 Bluetooth moudle, make sure the firmware version is ***Above 1.3***.
 
 ## Background
 My friend BG6JJI designed a Bluetooth DIGI adaptor working for many old style TRXs with a Bluetooth, DIGI and CAT ability. He was using a Bluetooth module named JDY-67. I am not sure which manufacturer made the JDY-67. But it's really inexpensive and really works for Bluetooth Audio, and SPP in same time.
