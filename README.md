@@ -8,6 +8,7 @@
 - [Update](#update)
 - [Background](#background)
 - [Design](#design)
+- [Related Efforts](#related-efforts)
 - [Contributing](#contributing)
 - [Maintainers](#maintainers)
 - [License](#license)
@@ -27,7 +28,6 @@ So, I pick up an old PCB design for my FT-818. It was design for FT8 cable conne
 
 ![have a look](./pics/FT-81x-BT-DIGI-Adaptor-PIC.jpeg)
 
-
 Although FT-817/818 has been discontinued, I still love this twenty years selling product. Now, I would like to share this PCB desgin to all HAM communities, If you wanna make your design, you can make any modify from it.
 
 
@@ -40,9 +40,12 @@ In the Layer User.1~4, there are approximate FT-817/818's panel sketch for compa
 ![have a look](./pics/FT-81x-BT-DIGI-Adaptor-PCB.png)
 ![have a look](./pics/FT-81x-BT-DIGI-Adaptor-3D.png)
 
+## Related Efforts
+- [FT8CN for Android](https://github.com/N0BOY/FT8CN) - Run FT8 natively on Android. This app works well with our Bluetooth DIGI Adaptor.
+
 
 ## Contributing
-With special thanks to BG6JJI, BI1EIH. They give me many generous advice.
+With special thanks to **BG6JJI, BI1EIH***. They give me many generous advice.
 
 Let's enjoy the FT-817's last lucky underware together!!
 
