@@ -9,6 +9,7 @@
 - [Important](#important)
 - [Background](#background)
 - [Design](#design)
+- [Configuration of JDY-67](#configuration-of-JDY-67)
 - [Related Efforts](#related-efforts)
 - [Contributing](#contributing)
 - [Maintainers](#maintainers)
@@ -44,6 +45,26 @@ In the Layer User.1~4, there are approximate FT-817/818's panel sketch for compa
 ![have a look](./pics/FT-81x-BT-DIGI-Adaptor-SCH.png)
 ![have a look](./pics/FT-81x-BT-DIGI-Adaptor-PCB.png)
 ![have a look](./pics/FT-81x-BT-DIGI-Adaptor-3D.png)
+
+## Configuration of JDY-67
+
+Please note, the JDY-67's default BAUD is 9600bps.
+
+Before connect the adaptor to phone or computer, there are three bluetooth configuration need to be changed. please use those serial port AT instructions:
+```sh
+AT+SING1\r\n
+# Turn on single-ended output 
+
+AT+ROLE0\r\n
+# Turn off BLE bluetooth
+
+AT+CALEN1\r\n
+# Turn on the phone function
+
+AT+RST\r\n
+# Restart the moudule
+```
+Jdy-67 module serial command must be plus \r\n .
 
 ## Related Efforts
 - [FT8CN for Android](https://github.com/N0BOY/FT8CN) - Run FT8 natively on Android. This app works well with our Bluetooth DIGI Adaptor.
