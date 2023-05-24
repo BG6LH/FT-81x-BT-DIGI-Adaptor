@@ -76,8 +76,8 @@ With special thanks to **BG6JJI, BI1EIH***. They give me many generous advice.
 Let's enjoy the FT-817's last lucky underware together!!
 
 ## Maintainers
-- [@BG6LH](https://github.com/BG6LH)
-- [@sgub](https://github.com/sgub)
+- [@BG6LH(me)](https://github.com/BG6LH)
+- [@sgub(BI1EIH)](https://github.com/sgub)
 
 ## License
 
