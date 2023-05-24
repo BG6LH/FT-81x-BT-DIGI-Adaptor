@@ -1,3 +1,5 @@
+[English](./README.md) | 简体中文
+
 # Yaesu FT-817/818 系列收发信机蓝牙DIGI模式适配器设计
 
 
