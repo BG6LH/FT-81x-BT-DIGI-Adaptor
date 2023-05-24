@@ -1,3 +1,5 @@
+English | [简体中文](./README.zh-CN.md)
+
 # A PCB Design of Bluetooth DIGI Adaptor for Yaesu FT-817/818 Series transceivers
 
 
