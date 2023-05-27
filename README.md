@@ -11,6 +11,7 @@ English | [简体中文](./README.zh-CN.md)
 - [Important](#important)
 - [Background](#background)
 - [Design](#design)
+- [Code Repositories](#code-repositories)
 - [Configuration of JDY-67](#configuration-of-JDY-67)
 - [Related Efforts](#related-efforts)
 - [Contributing](#contributing)
@@ -58,6 +59,13 @@ In the Layer User.1~4, there are approximate FT-817/818's panel sketch for compa
 ![have a look](./pics/FT-81x-BT-DIGI-Adaptor-SCH.png)
 ![have a look](./pics/FT-81x-BT-DIGI-Adaptor-PCB.png)
 ![have a look](./pics/FT-81x-BT-DIGI-Adaptor-3D.png)
+
+
+## Code Repositories
+
+- Github [https://github.com/BG6LH/FT-81x-BT-DIGI-Adaptor](https://github.com/BG6LH/FT-81x-BT-DIGI-Adaptor)
+- Gitee [https://gitee.com/bg6lh/FT-81x-BT-DIGI-Adaptor](https://gitee.com/bg6lh/FT-81x-BT-DIGI-Adaptor)
+
 
 ## Configuration of JDY-67
 

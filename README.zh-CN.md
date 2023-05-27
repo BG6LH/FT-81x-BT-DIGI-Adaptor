@@ -11,6 +11,7 @@
 - [重要提示](#重要提示)
 - [项目背景](#项目背景)
 - [设计](#设计)
+- [源代码仓库](#源代码仓库)
 - [JDY-67配置](#JDY-67配置)
 - [相关项目](#相关项目)
 - [贡献者](#贡献者)
@@ -58,6 +59,12 @@ PCB用KiCad 7.0设计。
 ![have a look](./pics/FT-81x-BT-DIGI-Adaptor-SCH.png)
 ![have a look](./pics/FT-81x-BT-DIGI-Adaptor-PCB.png)
 ![have a look](./pics/FT-81x-BT-DIGI-Adaptor-3D.png)
+
+## 源代码仓库
+
+- Gitee [https://gitee.com/bg6lh/FT-81x-BT-DIGI-Adaptor](https://gitee.com/bg6lh/FT-81x-BT-DIGI-Adaptor)
+- Github [https://github.com/BG6LH/FT-81x-BT-DIGI-Adaptor](https://github.com/BG6LH/FT-81x-BT-DIGI-Adaptor)
+
 
 ## JDY-67配置
 
