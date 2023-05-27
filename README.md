@@ -19,7 +19,7 @@ English | [简体中文](./README.zh-CN.md)
 
 ## Update
 
-Updated in 20230527
+### Updated in 20230527
 
 The version 20230522‘s MD6 and MD8 sockets footprints were forgot to be grounded, if you has printed the PCB, you can scrape the green oil next to the shell's big pin, and then solder them together. It will as good as this version 20230527.
 
@@ -29,7 +29,7 @@ The version 20230522‘s MD6 and MD8 sockets footprints were forgot to be ground
 3. Added project's kicad symbols and footprints library sharing.
 
 
-Updated in 20230522
+### Updated in 20230522
 1. Add 6.2V zener for pre-conditioning before LM1117-3.3
 2. Add attenuation network for Line->Mic
 3. Add EMI inductor on TXD/RXD pins.
@@ -45,7 +45,7 @@ My friend BG6JJI designed a Bluetooth DIGI adaptor working for many old style TR
 
 So, I pick up an old PCB design for my FT-818. It was design for FT8 cable connecting at very beginning. However, with JDY-67, It should works for Bluetooh/DIGI/CAT. I'd measured the DATA and ACC jacks on FT-818's rear panel, And refering to the FT-817ND's Service Manual, I think the Yaesu's PCB maybe design in a 0.635mm/0.025inch grid. Under this assumption, I'd drawn a PCB that could cover most of the FT-817 rear panel, and perfectly matched all the screw holes, jacks....precisely!!! It looks like a underwear(under-bottom-hardware), right?
 
-![have a look](./pics/FT-81x-BT-DIGI-Adaptor-PIC.jpeg)
+![have a look](./pics/FT-81x-BT-DIGI-Adaptor-PIC.png)
 
 Although FT-817/818 has been discontinued, I still love this twenty years selling product. Now, I would like to share this PCB desgin to all HAM communities, If you wanna make your design, you can make any modify from it.
 
