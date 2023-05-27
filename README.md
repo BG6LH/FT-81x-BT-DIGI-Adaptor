@@ -18,6 +18,17 @@ English | [简体中文](./README.zh-CN.md)
 - [License](#license)
 
 ## Update
+
+Updated in 20230527
+
+The version 20230522‘s MD6 and MD8 sockets footprints were forgot to be grounded, if you has printed the PCB, you can scrape the green oil next to the shell's big pin, and then solder them together. It will as good as this version 20230527.
+
+20230527's update includes:
+1. Modified the symbols and footprints design of MD-6 and MD8 sockets, added pin 9, and grounded. Ensure that will not lost ground when updating from schematic.
+2. The power divider resistor R6 is updated to 270Ω, which is close to the ideal value;
+3. Added project's kicad symbols and footprints library sharing.
+
+
 Updated in 20230522
 1. Add 6.2V zener for pre-conditioning before LM1117-3.3
 2. Add attenuation network for Line->Mic
