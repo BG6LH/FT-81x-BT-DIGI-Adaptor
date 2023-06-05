@@ -11,6 +11,7 @@
 - [重要提示](#重要提示)
 - [项目背景](#项目背景)
 - [设计](#设计)
+- [源代码仓库](#源代码仓库)
 - [JDY-67配置](#JDY-67配置)
 - [相关项目](#相关项目)
 - [贡献者](#贡献者)
@@ -18,7 +19,8 @@
 - [使用许可](#使用许可)
 
 ## 最新更新
-20230527 更新
+
+### 20230527 更新
 
 上一版（20230522版）MD6、MD8插座的外壳忘了接地，如果已经打板，请自行处理一下。可以把外壳接地脚旁边PCB的绿油刮开，然后和外壳连焊就好，和20230527这版一样好用。
 
@@ -28,7 +30,7 @@
 3. 增加了项目符号、封装库的分享。
 
 
-20230522 更新
+### 20230522 更新
 1. 给LM1117-3.3增加了一个6.2V稳压二极管作为保护；
 2. 给蓝牙音频线路增加了相应的衰减电路；
 3. 蓝牙信号的TXD/RXD线路增加了EMI电感；
@@ -42,9 +44,9 @@
 ## 项目背景
 我的朋友BG6JJI设计了一个蓝牙DIGI适配器，可以用在一些老的收发信机上，让它们具备了蓝牙连接、使用数字模式和CAT的能力。他用了一个叫JDY-67的蓝牙模块。我不确定这是哪个厂生产的，但是它真的很便宜，而且同时具备蓝牙音频、SPP透传的能力。
 
-于是我翻出来曾经给FT-818做的一个PCB设计，当时是为了玩FT8时减少插拔数据线对接口的损耗。现在好了，有了JDY-67彻底不摆脱了数据线了。我测量过FT-818后面板上DATA和ACC接口的尺寸，并且参考了FT-817ND的服务手册（Service Manual）。我猜八重洲的PCB设计可能用的是 0.635mm/0.025inch的网格，在这个假设下，我画了一个可以装在后面版上的PCB，并且完美匹配了所有的螺丝孔、插口，相当精确！看看是不是很像一条内裤？（underwear，under-bottom-hardware)？
+于是我翻出来曾经给FT-818做的一个PCB设计，当时是为了玩FT8时减少插拔数据线对接口的损耗。现在好了，有了JDY-67彻底摆脱了数据线。我测量过FT-818后面板上DATA和ACC接口的尺寸，并且参考了FT-817ND的服务手册（Service Manual）。我猜八重洲的PCB设计可能用的是 0.635mm/0.025inch的网格，在这个假设下，我画了一个可以装在后面版上的PCB，并且完美匹配了所有的螺丝孔、插口，相当精确！看看是不是很像一条内裤？（underwear，under-bottom-hardware)？
 
-![have a look](./pics/FT-81x-BT-DIGI-Adaptor-PIC.jpeg)
+![have a look](./pics/FT-81x-BT-DIGI-Adaptor-PIC.png)
 
 尽管FT-817/818 系列已经停产了，我还是很喜欢这个卖了20年的产品。这次我打算向全世界的HAM分享这个PCB设计，如果你想做自己的设计，欢迎下载回去修改！
 
@@ -57,6 +59,12 @@ PCB用KiCad 7.0设计。
 ![have a look](./pics/FT-81x-BT-DIGI-Adaptor-SCH.png)
 ![have a look](./pics/FT-81x-BT-DIGI-Adaptor-PCB.png)
 ![have a look](./pics/FT-81x-BT-DIGI-Adaptor-3D.png)
+
+## 源代码仓库
+
+- Gitee [https://gitee.com/bg6lh/FT-81x-BT-DIGI-Adaptor](https://gitee.com/bg6lh/FT-81x-BT-DIGI-Adaptor)
+- Github [https://github.com/BG6LH/FT-81x-BT-DIGI-Adaptor](https://github.com/BG6LH/FT-81x-BT-DIGI-Adaptor)
+
 
 ## JDY-67配置
 
