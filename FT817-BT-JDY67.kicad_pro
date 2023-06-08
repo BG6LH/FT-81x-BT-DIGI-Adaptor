@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.0
+          "min_clearance": 0.19999999999999998
         }
       },
       "diff_pair_dimensions": [
@@ -439,9 +439,9 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "../../../../../../../Applications/KiCad/KiCad.app/Contents/Applications/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "FT817-BT-JDY67.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -471,7 +471,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "C:/Users/sgub/OneDrive/Desktop/",
+    "plot_directory": "./",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
