@@ -28,7 +28,7 @@ English | [简体中文](./README.zh-CN.md)
 
 1. Update LDO LM1117-3.3V to 5V, to provide a constant power for the Bluetooth module;
 2. Removed the Zener, and updated R6 to 150Ω, which is close to the ideal value;
-~~3. Added power off circuit.~~
+3. ~~Added power off circuit.~~
 4. Replace VR with fixed resistor and optimize the circuit.
 5. Updated some symbols and footprints.
 
