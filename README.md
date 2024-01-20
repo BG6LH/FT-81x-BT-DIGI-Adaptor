@@ -30,12 +30,14 @@ Right Choice should be this:
 * R11 = 100KΩ
 * R12 = 1KΩ
 * R6 = 10Ω
+
 The LM1117-3.3V is also a good choice.
 All about that can work well at once!
 
 The PCB design is as same as 20230609, so the old Gerber files are still work.
 
 A 3D printed Cover has published:
+
 [https://www.thingiverse.com/thing:6116435](https://www.thingiverse.com/thing:6116435)
 
 
