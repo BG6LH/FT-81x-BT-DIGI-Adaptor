@@ -550,7 +550,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ecb164a2-1c95-4350-a14d-797f5a94cfd6)
     )
-    (fp_text value "10k" (at 0 1.65 90) (layer "F.Fab") hide
+    (fp_text value "100k" (at 0 1.65 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 59761d15-a868-49c2-8539-26e7555d4dbb)
     )
@@ -941,7 +941,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 23a3a10d-1f3c-4299-a5bd-21a968257515)
     )
-    (fp_text value "150R" (at 0 1.65) (layer "F.Fab") hide
+    (fp_text value "10R" (at 0 1.65) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4d364ff1-1b92-4b38-b7d4-69dcadc48a9b)
     )
@@ -1049,7 +1049,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 82b7328f-cd66-442e-8cd5-d2839e8544a5)
     )
-    (fp_text value "10k" (at 0 1.65 90) (layer "F.Fab") hide
+    (fp_text value "100k" (at 0 1.65 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 99df654a-867a-4c4f-8e95-4080a7ea3cb4)
     )
@@ -1553,7 +1553,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 01280407-ad7d-4355-8ec8-43654f4dc403)
     )
-    (fp_text value "LM1117MP-5.0" (at 0 4.5 180) (layer "F.Fab") hide
+    (fp_text value "LM1117MP-3.3" (at 0 4.5 180) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3587d4cf-8c25-403f-9fd5-62ff2b0edce4)
     )
@@ -1952,7 +1952,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a0f501c4-6fe1-42ed-90d2-c13ced7e8e26)
     )
-    (fp_text value "10k" (at 0 1.65 -90) (layer "F.Fab") hide
+    (fp_text value "1k" (at 0 1.65 -90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e5d347c3-0c38-4b16-a1c6-bf84de71a990)
     )
@@ -2775,7 +2775,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp eba96443-c9b1-4257-b333-09225de9d33c))
   (gr_arc (start 154.305 64.77) (mid 154.862962 63.422962) (end 156.21 62.865)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp fc1a9f0d-99d8-4565-a98d-bf8832915c8c))
-  (image (at 143.51 80.01) (layer "User.2") (scale 0.229514)
+  (image (at 143.51 79.375) (layer "User.2") (scale 0.229514)
     (data
       iVBORw0KGgoAAAANSUhEUgAADOQAAAOgCAIAAACoDt/6AAAAA3NCSVQICAjb4U/gAAAACXBIWXMA
       ABXgAAAV4AGNVCw4AAAgAElEQVR4nOzdZ1xTyfs28BMCCARQ6U1FECmChSaCgAVcUcS6uooNK7o2
@@ -10136,7 +10136,7 @@
       8MTExObm5p5/q+kT/h+SL2ndKcBnWwAAAABJRU5ErkJggg==
     )
   )
-  (image (at 143.51 79.375) (layer "User.2") (scale 0.229514)
+  (image (at 143.51 80.01) (layer "User.2") (scale 0.229514)
     (data
       iVBORw0KGgoAAAANSUhEUgAADOQAAAOgCAIAAACoDt/6AAAAA3NCSVQICAjb4U/gAAAACXBIWXMA
       ABXgAAAV4AGNVCw4AAAgAElEQVR4nOzdZ1xTyfs28BMCCARQ6U1FECmChSaCgAVcUcS6uooNK7o2

@@ -20,6 +20,24 @@ English | [简体中文](./README.zh-CN.md)
 
 ## Update
 
+### Updated in 20240120
+
+**Important:** Fixed the 20230609 version‘s power supply part's resistor value.
+
+Right Choice should be this:
+* R10 = 100KΩ
+* R11 = 100KΩ
+* R12 = 1KΩ
+* R6 = 10Ω
+The LM1117-3.3V is also a good choice.
+All about that can work well at once!
+
+The PCB design is as same as 20230609, so the old Gerber files are still work.
+
+A 3D printed Cover has published:
+[https://www.thingiverse.com/thing:6116435](https://www.thingiverse.com/thing:6116435)
+
+
 ### Updated in 20230609 
 
 **Important:** The 20230608 version‘s symbols and footprints of Q1, Q2 are wrong. Please use updated in 20230609.
@@ -97,6 +115,12 @@ AT+RST\r\n
 # Restart the moudule
 ```
 Jdy-67 module serial command must be plus \r\n .
+
+
+## 3D Printed Protect Cover
+
+A 3D printed Cover has published:
+[https://www.thingiverse.com/thing:6116435](https://www.thingiverse.com/thing:6116435)
 
 ## Related Efforts
 - [FT8CN for Android](https://github.com/N0BOY/FT8CN) - Run FT8 natively on Android. This app works well with our Bluetooth DIGI Adaptor.
