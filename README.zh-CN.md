@@ -1,3 +1,8 @@
+![views](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-FT-81x-BT-DIGI-Adaptor/views.svg)
+![views per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-FT-81x-BT-DIGI-Adaptor/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-FT-81x-BT-DIGI-Adaptor/clones.svg)
+![clones per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-FT-81x-BT-DIGI-Adaptor/clones_per_week.svg)
+
 [English](./README.md) | 简体中文
 
 # Yaesu FT-817/818 系列收发信机蓝牙DIGI模式适配器设计
