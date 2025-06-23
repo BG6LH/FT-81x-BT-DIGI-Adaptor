@@ -3,7 +3,9 @@
 ![clones](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-FT-81x-BT-DIGI-Adaptor/clones.svg)
 ![clones per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-FT-81x-BT-DIGI-Adaptor/clones_per_week.svg)
 
+Since 2025/06/11 
 
+---
 English | [简体中文](./README.zh-CN.md)
 
 # A PCB Design of Bluetooth DIGI Adaptor for Yaesu FT-817/818 Series Transceivers
