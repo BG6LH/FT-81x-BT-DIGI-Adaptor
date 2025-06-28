@@ -146,6 +146,10 @@ Let's enjoy the FT-817's last lucky underware together!!
 - [@BG6LH(me)](https://github.com/BG6LH)
 - [@sgub(BI1EIH)](https://github.com/sgub)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=BG6LH/FT-81x-BT-DIGI-Adaptor&type=Date)](https://www.star-history.com/#BG6LH/FT-81x-BT-DIGI-Adaptor&Date)
+
 ## License
 
 This work is licensed under a
