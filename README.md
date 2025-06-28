@@ -5,6 +5,8 @@
 
 Since 2025/06/11 
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T01D9CDW)
+
 ---
 English | [简体中文](./README.zh-CN.md)
 
